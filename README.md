@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sr376&label=Profile%20views&color=0e75b6&style=flat" alt="sr376" /> </p>
 
-- 🔭 I’m currently working on **Kubernetes, Docker**
+- 🔭 I’m currently working on **SpringBoot, Kafka**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **SpringMVC**
 
 - 💬 Ask me about **Node Js, Express Js, Java, React Js, MongoDb**
 
